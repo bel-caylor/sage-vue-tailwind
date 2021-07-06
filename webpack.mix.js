@@ -27,7 +27,7 @@ mix
   });
 
 // Browsersync
-mix.browserSync('tech-bits.website');
+mix.browserSync('meal-planning.localdev');
 
 // Styles
 mix.sass(src`styles/app.scss`, 'styles');
